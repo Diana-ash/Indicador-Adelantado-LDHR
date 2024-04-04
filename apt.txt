@@ -1,0 +1,9 @@
+octave
+liboctave-dev
+octave-control
+gnuplot
+ghostscript	
+epstool
+fig2dev
+pstoedit
+fonts-freefont-otf
